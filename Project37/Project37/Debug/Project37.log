@@ -1,0 +1,8 @@
+﻿  源.c
+c:\users\chenyichao\documents\visual studio 2017\projects\project37\project37\源.c(290): warning C4029: 声明的形参表不同于定义
+c:\users\chenyichao\documents\visual studio 2017\projects\project37\project37\源.c(419): warning C4098: “main”:“void”函数返回值
+c:\users\chenyichao\documents\visual studio 2017\projects\project37\project37\源.c(389): warning C4101: “position”: 未引用的局部变量
+c:\users\chenyichao\documents\visual studio 2017\projects\project37\project37\源.c(165): warning C4715: “FindZero”: 不是所有的控件路径都返回值
+c:\users\chenyichao\documents\visual studio 2017\projects\project37\project37\源.c(187): warning C4715: “FindPosite”: 不是所有的控件路径都返回值
+  Project37.vcxproj -> c:\users\chenyichao\documents\visual studio 2017\Projects\Project37\Debug\Project37.exe
+  Project37.vcxproj -> c:\users\chenyichao\documents\visual studio 2017\Projects\Project37\Debug\Project37.pdb (Partial PDB)
